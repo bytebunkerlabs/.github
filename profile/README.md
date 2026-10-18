@@ -47,6 +47,7 @@ We also contribute to **[TensorFold](https://github.com/ashhart/TensorFold)**, t
 
 ## From the blog
 
+- [**Quantize it yourself:** a 74B MoE to 4-bit MLX, from NVIDIA's BF16](https://blog.bytebunkerlabs.ai/posts/quantize-nemotron-bolt-74b-to-mlx/)
 - [**A day-one port:** NVIDIA's Nemotron Bolt 74B on a Mac, at 45 tok/s](https://blog.bytebunkerlabs.ai/posts/nemotron-bolt-74b-on-a-mac/)
 - [**The keeper of the treasury:** agents that read your data and keep it home](https://blog.bytebunkerlabs.ai/posts/keeper-of-the-treasury/)
 - [More field notes →](https://blog.bytebunkerlabs.ai)
